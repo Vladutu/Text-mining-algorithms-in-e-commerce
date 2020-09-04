@@ -1,0 +1,11 @@
+*.settings
+*target
+*.project
+*.classpath
+*.idea
+*.iml
+*.pyc
+node_modules
+fla-project-v2/resources/fsm
+fla-project-v2/resources/fsm.png
+/out
